@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://jacobwiltshire.me/Blog Posts/test.html</loc>
+        <loc>http://jacobwiltshire.me/blog/pages/test.html</loc>
+    </url>
+    <url>
+        <loc>http://jacobwiltshire.me/blog/home.html</loc>
     </url>
     <url>
         <loc>http://jacobwiltshire.me/cv.html</loc>
