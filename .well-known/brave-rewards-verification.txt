@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jacobwiltshire.me
+Token: f98e905a7d5edac7c91b06a5e367bbd832faaf5ff161435a869389faa43d76fd
