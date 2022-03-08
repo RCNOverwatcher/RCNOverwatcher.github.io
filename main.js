@@ -2,7 +2,7 @@
 import './style.css'
 
 //import 3
-import * as THREE from 'three';
+import * as THREE from "/node_modules/three/build/three.module.js"
 
 //make scene
 const scene = new THREE.Scene();
