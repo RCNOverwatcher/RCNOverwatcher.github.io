@@ -71,8 +71,8 @@ const spaceTexture = new THREE.TextureLoader().load('assets/space.jpg')
 scene.background = spaceTexture;
 
 //configure the moon a little bit
-moon.position.z = 30;
-moon.position.setX(-10);
+moon.position.z = 20;
+moon.position.setX(-5);
 
 function moveCamera() {
     const t = document.body.getBoundingClientRect().top;
