@@ -1,2 +1,2 @@
-![GitHub](https://img.shields.io/github/license/RCNOverwatcher/RCNOverwatcher.github.io)
+![GitHub](https://img.shields.io/badge/license-MIT-green)
 # RCNOverwatcher.github.io
