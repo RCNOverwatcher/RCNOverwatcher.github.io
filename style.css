@@ -67,11 +67,11 @@ blockquote {
 }
 
 blockquote p {
-    color: black;
-    background-color: white;
+    color: #7092be;
     font-size: 4rem;
     display: inline;
     line-height: 1;
+    font-weight: bold;
 }
 
 .left {
