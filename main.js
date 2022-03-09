@@ -76,9 +76,6 @@ moon.position.setX(-5);
 
 function moveCamera() {
     const t = document.body.getBoundingClientRect().top;
-    moon.rotation.x += 0.05;
-    moon.rotation.y += 0.075;
-    moon.rotation.z += 0.05;
 
     rcn.rotation.y += 0.01;
     rcn.rotation.z += 0.01;
@@ -92,6 +89,10 @@ document.body.onscroll = moveCamera
 
 function animate() {
     requestAnimationFrame(animate)
+
+    moon.rotation.x += 0.05;
+    moon.rotation.y += 0.075;
+    moon.rotation.z += 0.05;
 
     staticShape.rotation.x += 0.01;
     staticShape.rotation.y += 0.005;
