@@ -74,6 +74,8 @@ scene.background = spaceTexture;
 moon.position.z = 20;
 moon.position.setX(-5);
 
+rcn.position.z = -3;
+
 function moveCamera() {
     const t = document.body.getBoundingClientRect().top;
 
