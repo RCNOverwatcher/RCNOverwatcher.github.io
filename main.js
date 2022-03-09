@@ -92,9 +92,9 @@ document.body.onscroll = moveCamera
 function animate() {
     requestAnimationFrame(animate)
 
-    moon.rotation.x += 0.05;
-    moon.rotation.y += 0.075;
-    moon.rotation.z += 0.05;
+    moon.rotation.x += 0.005;
+    moon.rotation.y += 0.0075;
+    moon.rotation.z += 0.005;
 
     staticShape.rotation.x += 0.01;
     staticShape.rotation.y += 0.005;
