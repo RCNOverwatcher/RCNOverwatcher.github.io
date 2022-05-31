@@ -96,8 +96,7 @@ function animate() {
     moon.rotation.y += 0.0075;
     moon.rotation.z += 0.005;
 
-    rcn.rotation.y += 0.001;
-    rcn.rotation.z += 0.001;
+    rcn.rotation.x += 0.0001;
 
     staticShape.rotation.x += 0.01;
     staticShape.rotation.y += 0.005;
