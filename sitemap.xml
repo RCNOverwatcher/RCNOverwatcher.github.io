@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://jacobwiltshire.dev/cv.html</loc>
+        <loc>http://jacobwiltshire.me/cv.html</loc>
     </url>
     <url>
-        <loc>http://jacobwiltshire.dev/discord.html</loc>
+        <loc>http://jacobwiltshire.me/discord.html</loc>
     </url>
     <url>
-        <loc>http://jacobwiltshire.dev/</loc>
+        <loc>http://jacobwiltshire.me/</loc>
     </url>
     <url>
-        <loc>http://jacobwiltshire.dev/projects-grid-cards.html</loc>
+        <loc>http://jacobwiltshire.me/projects-grid-cards.html</loc>
     </url>
 </urlset>
