@@ -876,6 +876,10 @@
 <li><a href="#trigonometric-identities" class="anchor-link">Trigonometric Identities</a><ul>
 <li><a href="#sine-red-cosine-blue-and-tangent-green" class="anchor-link">Sine (red), Cosine (blue) and Tangent (green)</a></li>
 <li><a href="#tables-of-trigonometric-values" class="anchor-link">Tables of Trigonometric Values</a></li>
+<li><a href="#more-trigonometric-identities" class="anchor-link">More Trigonometric Identities</a><ul>
+<li><a href="#examples" class="anchor-link">Examples</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -991,6 +995,70 @@ y=\tan(x) | green
 </tr>
 </tbody>
 </table>
+<h2 id="more-trigonometric-identities">More Trigonometric Identities</h2>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">Info
+</div>
+</div>
+<div class="callout-content">
+<p>First rule: <span class="arithmatex">\(\tan\theta\equiv \frac{\sin\theta}{\cos\theta}\)</span> <br />
+</p>
+<p>Second rule: <span class="arithmatex">\(\sin^2\theta+\cos^{2}\theta\equiv 1\)</span> <br />
+</p>
+<p>Third rule: <span class="arithmatex">\(a^2-b^2=(a+b)(a-b)\)</span> <br />
+</p>
+<p>Fourth rule: <span class="arithmatex">\(a^4-b^4=(a^2+b^2)(a^2-b^2)\)</span> <br />
+</p>
+</div>
+</div>
+<h3 id="examples">Examples</h3>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">Example <br />
+</div>
+</div>
+<div class="callout-content">
+<p>Prove that <span class="arithmatex">\(<span class="arithmatex">\(\frac{\tan x\cos x}{\sqrt{ 1-\cos^{2}x}} \equiv 1\)</span>\)</span> <br />
+</p>
+<p>Square both sides:  <br />
+<span class="arithmatex">\(\frac{\tan^2x\cos^2x}{1-\cos^2x}\equiv1\)</span> <br />
+</p>
+<p>Use the first rule: <br />
+<span class="arithmatex">\(\frac{\sin^2x\cos^2x}{\cos^2x+1-\cos^2x} \equiv 1\)</span> <br />
+</p>
+<p>Cancel the <span class="arithmatex">\(\cos ^2x\)</span> on the bottom: <br />
+<span class="arithmatex">\(\sin^2x\cos^2x \equiv 1\)</span> <br />
+</p>
+<p>Use the second rule: <br />
+<span class="arithmatex">\(1 \equiv 1\)</span> <br />
+</p>
+</div>
+</div>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">Example <br />
+</div>
+</div>
+<div class="callout-content">
+<p>Prove that <span class="arithmatex">\(<span class="arithmatex">\(\frac{\cos^4x-\sin^4x}{\cos^2x} \equiv 1-\tan^2x\)</span>\)</span> <br />
+</p>
+<p>Expand brackets: <br />
+<span class="arithmatex">\(\frac{(\cos^2x+\sin^2x)(\cos^2x-\sin^2x)}{\cos^2x} \equiv 1-\tan^2x\)</span> <br />
+</p>
+<p><span class="arithmatex">\(\sin^2x+\cos^2x \equiv 1 \therefore\)</span> we can get rid of it: <br />
+<span class="arithmatex">\(\frac{\cos^2x-\sin^2x}{\cos^2x} \equiv \frac{\cos^2x}{\cos^2x}-\frac{\sin^2x}{\cos^2x}\)</span> <br />
+</p>
+<p><span class="arithmatex">\(\equiv 1-\tan^2x \equiv RHS\)</span>
+</p>
+</div>
+</div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -1005,13 +1073,13 @@ y=\tan(x) | green
 
 </div>
 <div class="graph requires_js ">
-    <div id="A265969116414221824951850015215115584012{level}" class="graph_div"></div>
+    <div id="A141722292321965935435501653409479112213{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B265969116414221824951850015215115584012{level}" level="{level}" note_temp_id="265969116414221824951850015215115584012" onclick="window.ObsHtmlGraph.run(this, '265969116414221824951850015215115584012', 'trigonometric identities');">
+        <button class="graph_button graph_show_button" id="B141722292321965935435501653409479112213{level}" level="{level}" note_temp_id="141722292321965935435501653409479112213" onclick="window.ObsHtmlGraph.run(this, '141722292321965935435501653409479112213', 'trigonometric identities');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C265969116414221824951850015215115584012{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C141722292321965935435501653409479112213{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

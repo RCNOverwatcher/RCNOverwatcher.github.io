@@ -873,8 +873,75 @@
                                 <h1 id="bin-packing-algorithms">Bin-packing Algorithms</h1>
 <div class="toc">
 <ul>
-<li><a href="#bin-packing-algorithms" class="anchor-link">Bin-packing Algorithms</a></li>
+<li><a href="#bin-packing-algorithms" class="anchor-link">Bin-packing Algorithms</a><ul>
+<li><a href="#first-fit-algorithm" class="anchor-link">First Fit Algorithm</a></li>
+<li><a href="#first-fit-decreasing" class="anchor-link">First Fit Decreasing</a></li>
+<li><a href="#full-bin-algorithm" class="anchor-link">Full Bin Algorithm</a></li>
 </ul>
+</li>
+</ul>
+</div>
+<h3 id="first-fit-algorithm">First Fit Algorithm</h3>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">First Fit Algorithm <br />
+</div>
+</div>
+<div class="callout-content">
+<p><strong>There are 12 vehicles waiting to get on a 3 lane ferry of 30m length</strong> <br />
+3, 15, 14, 2, 5, 5, 8, 11, 4, 17, 7, 3 m in length respectively <br />
+L<sub>1</sub> 3, 15<sub>18</sub> , 2<sub>20</sub> , 5<sub>25</sub> , 5<sub>30</sub> <br />
+L<sub>2</sub> 14, 8<sub>22</sub> , 4<sub>26</sub> , 3<sub>29</sub> <br />
+L<sub>3</sub> 11, 17<sub>28</sub> <br />
+</p>
+<p><strong>7 cannot get on, as the amount of space left is less than 7</strong> <br />
+</p>
+</div>
+</div>
+<h3 id="first-fit-decreasing">First Fit Decreasing</h3>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">First Fit Decreasing <br />
+</div>
+</div>
+<div class="callout-content">
+<p><strong>Sort the list into size order decreasing.</strong> <br />
+3, 15, 14, 2, 5, 5, 8, 11, 4, 17, 7, 3 <br />
+</p>
+<p><em>17, 15, 14, 11, 8, 7, 5, 5, 4, 3, 3, 2</em> <br />
+</p>
+<p>L<sub>1</sub> 17, 11<sub>28</sub> , 2<sub>30</sub> <br />
+L<sub>2</sub> 15, 14<sub>29</sub> <br />
+L<sub>3</sub> 8, 7<sub>15</sub> , 5<sub>20</sub> , 5<sub>25</sub> , 4<sub>29</sub> <br />
+</p>
+<p><strong>Better by 1, two 3m vehicles dont get in</strong> <br />
+</p>
+</div>
+</div>
+<h3 id="full-bin-algorithm">Full Bin Algorithm</h3>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">Inspection (Full bin algorithm) <br />
+</div>
+</div>
+<div class="callout-content">
+<p>Can you do any better by yourself? <br />
+</p>
+<p>14+11+5 = 30 <br />
+15+7+3+5 = 30 <br />
+17+8+3+2 = 30 <br />
+</p>
+<p>4m vehicle left over <br />
+</p>
+<p><span class="arithmatex">\(\therefore\)</span> we can do better!
+</p>
+</div>
 </div>
 <div class="note-footer">
 <div class="backlinks">
@@ -890,13 +957,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A135889549659473627336042897599537246254{level}" class="graph_div"></div>
+    <div id="A170000903241207152766254312182413869570{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B135889549659473627336042897599537246254{level}" level="{level}" note_temp_id="135889549659473627336042897599537246254" onclick="window.ObsHtmlGraph.run(this, '135889549659473627336042897599537246254', 'bin-packing algorithms');">
+        <button class="graph_button graph_show_button" id="B170000903241207152766254312182413869570{level}" level="{level}" note_temp_id="170000903241207152766254312182413869570" onclick="window.ObsHtmlGraph.run(this, '170000903241207152766254312182413869570', 'bin-packing algorithms');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C135889549659473627336042897599537246254{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C170000903241207152766254312182413869570{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
