@@ -230,6 +230,7 @@
 			<button id="folder-6" class="dir-button" onclick="toggle_dir(this.id)">Logical operations</button>
 			<div id="folder-container-6" class="dir-container requires_js " path="/notes/School/Computer Science/Programming and Development/Logical operations">
 				<ul class="dir-list">
+					<li><a class="" href="/notes/School/Computer Science/Programming and Development/Logical operations/Bitwise Manipulation.html"  >Bitwise Manipulation</a></li>
 					<li><a class="" href="/notes/School/Computer Science/Programming and Development/Logical operations/Boolean Algebra Laws.html"  >Boolean Algebra Laws</a></li>
 				</ul>
 			</div>
@@ -724,6 +725,7 @@
 			<button id="folder-52" class="dir-button" onclick="toggle_dir(this.id)">Atomic Structure</button>
 			<div id="folder-container-52" class="dir-container requires_js " path="/notes/School/Physics/Particles and Radiation/Atomic Structure">
 				<ul class="dir-list">
+					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Atomic Structure/Inside the Atom.html"  >Inside the Atom</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Atomic Structure/Isotopes.html"  >Isotopes</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Atomic Structure/Nucleon Number.html"  >Nucleon Number</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Atomic Structure/Proton Number.html"  >Proton Number</a></li>
@@ -735,6 +737,7 @@
 			<div id="folder-container-53" class="dir-container requires_js " path="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons">
 				<ul class="dir-list">
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons/Baryons.html"  >Baryons</a></li>
+					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons/Conservation Laws.html"  >Conservation Laws</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons/Hadrons.html"  >Hadrons</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons/Leptons.html"  >Leptons</a></li>
 					<li><a class="" href="/notes/School/Physics/Particles and Radiation/Hadrons and Leptons/Mesons.html"  >Mesons</a></li>
@@ -834,6 +837,7 @@
 			<li><a class="" href="/notes/assets/Maths/LtFcoafygjXYncnhIHEhtIsGBHLknhfgrpUy04TsZbMCYS1uEzYtzMHhKa2P88eDacR1IYWhI92alxB3EiJpCf92BaWoUJwTPxo172LnIuZyxQ=s0-d-3564996257.gif"  class="external-link">LtFcoafygjXYncnhIHEhtIsGBHLknhfgrpUy04TsZbMCYS1uEzYtzMHhKa2P88eDacR1IYWhI92alxB3EiJpCf92BaWoUJwTPxo172LnIuZyxQ=s0-d-3564996257</a></li>
 			<li><a class="" href="/notes/assets/Maths/Pasted image 20221013143626.png"  class="external-link">Pasted image 20221013143626</a></li>
 			<li><a class="" href="/notes/assets/Maths/Pasted image 20221013143702.png"  class="external-link">Pasted image 20221013143702</a></li>
+			<li><a class="" href="/notes/assets/Maths/pascals3.jpg"  class="external-link">pascals3</a></li>
 		</ul>
 	</div>
 	<button id="folder-62" class="dir-button" onclick="toggle_dir(this.id)">Physics</button>
@@ -851,6 +855,16 @@
 		<li><a class="" href="/notes/assets/work.jpg"  class="external-link">work</a></li>
 	</ul>
 </div>
+<button id="folder-63" class="dir-button" onclick="toggle_dir(this.id)">templates</button>
+<div id="folder-container-63" class="dir-container requires_js " path="/notes/templates">
+	<ul class="dir-list">
+		<li><a class="" href="/notes/templates/computer science template.html"  >computer science template</a></li>
+		<li><a class="" href="/notes/templates/desmos.html"  >desmos</a></li>
+		<li><a class="" href="/notes/templates/further maths template.html"  >further maths template</a></li>
+		<li><a class="" href="/notes/templates/maths template.html"  >maths template</a></li>
+		<li><a class="" href="/notes/templates/physics template.html"  >physics template</a></li>
+	</ul>
+</div>
 <ul class="dir-list">
 	<li><a class="" href="/notes/index.html"  >index</a></li>
 </ul>
@@ -861,9 +875,68 @@
                                 <h1 id="pascal-s-triangle">Pascal's Triangle</h1>
 <div class="toc">
 <ul>
-<li><a href="#pascal-s-triangle" class="anchor-link">Pascal's Triangle</a></li>
+<li><a href="#pascal-s-triangle" class="anchor-link">Pascal's Triangle</a><ul>
+<li><a href="#the-basics" class="anchor-link">The Basics</a></li>
+<li><a href="#example" class="anchor-link">Example</a></li>
+<li><a href="#example-with-negetives" class="anchor-link">Example with negetives</a></li>
+</ul>
+</li>
 </ul>
 </div>
+<h2 id="the-basics">The Basics</h2>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name"><span class="arithmatex">\((a+b)^n\)</span> <br />
+</div>
+</div>
+<div class="callout-content">
+<ul>
+<li><span class="arithmatex">\((a+b)^{1}= a+b\)</span>   </li>
+<li><span class="arithmatex">\((a+b)^{2}= a^2+2ab+b^2\)</span>   </li>
+<li><span class="arithmatex">\((a+b)^{3}= a^3+3a^2b+3ab^2+b^3\)</span>   </li>
+<li><span class="arithmatex">\((a+b)^4=a^4+4a^3b+6a^2b^2+4ab^3+b^4\)</span>   </li>
+<li><span class="arithmatex">\((a+b)^5=a^5+5a^4b+10a^3b^2+10a^2b^3+5ab^4+b^5\)</span> <br />
+</li>
+</ul>
+</div>
+</div>
+<h2 id="example">Example</h2>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name"><span class="arithmatex">\((2x+3)^5\)</span> <br />
+</div>
+</div>
+<div class="callout-content">
+<p>Subsitute in: <br />
+- <span class="arithmatex">\((2x^5) + 5(2x)^4(3)+10(2x)^3(3)^2+10(2x)^2(3)^3+5(2x)(3)^4+3^5\)</span> <br />
+</p>
+<p>Expand: <br />
+- <span class="arithmatex">\(32x^5+240x^4+720x^3+1080x^2+810x+243\)</span> <br />
+</p>
+</div>
+</div>
+<h2 id="example-with-negetives">Example with negetives</h2>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name"><span class="arithmatex">\((3-x)^4\)</span> <br />
+</div>
+</div>
+<div class="callout-content">
+<p>Subsitute in: <br />
+- <span class="arithmatex">\(3^4+4(3)^3(-x)+6(3)^2(-x)^2+4(3)^1(-x^3)+(-x^4)\)</span> <br />
+</p>
+<p>Expand: <br />
+- <span class="arithmatex">\(81-108x+54x^2-12x^3+x^4\)</span> <br />
+</p>
+</div>
+</div>
+<p><img alt="" src="/notes/assets/Maths/pascals3.jpg" /></p>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -878,13 +951,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A100942066149147494040642231396678244950{level}" class="graph_div"></div>
+    <div id="A188875550753250520417386172978706136924{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B100942066149147494040642231396678244950{level}" level="{level}" note_temp_id="100942066149147494040642231396678244950" onclick="window.ObsHtmlGraph.run(this, '100942066149147494040642231396678244950', 'pascal's triangle');">
+        <button class="graph_button graph_show_button" id="B188875550753250520417386172978706136924{level}" level="{level}" note_temp_id="188875550753250520417386172978706136924" onclick="window.ObsHtmlGraph.run(this, '188875550753250520417386172978706136924', 'pascal's triangle');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C100942066149147494040642231396678244950{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C188875550753250520417386172978706136924{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
