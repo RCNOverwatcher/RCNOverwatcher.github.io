@@ -1,15 +1,2512 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>http://jacobwiltshire.me/cv.html</loc>
-    </url>
-    <url>
-        <loc>http://jacobwiltshire.me/discord.html</loc>
-    </url>
-    <url>
-        <loc>http://jacobwiltshire.me/</loc>
-    </url>
-    <url>
-        <loc>http://jacobwiltshire.me/projects-grid-cards.html</loc>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jacobwiltshire.dev/</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/index</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/cv</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/discord</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/index.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=computer%20science</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/dir_index.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/tags/index.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Data%20Representation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Data%20Transmission.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Data%20security%20and%20integrity.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Databases%20and%20Distributed%20Systems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Hardware%20and%20Communication.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/Organisation%20and%20Structure%20of%20Data.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/The%20Operating%20System.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications/The%20need%20for%20different%20software.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Hash%20Tables.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Linked%20Lists.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Queues.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Stacks.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Static%20vs%20Dynamic%20Data%20Strcutures.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures/Tree%20Traversal.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Logical%20operations/Boolean%20Algebra%20Laws.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Algorithms%20and%20Programs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Data%20Structures.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Economic,%20moral,%20legal,%20ethical%20and%20cultural%20issues.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Logical%20operations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Principles%20of%20programming.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Program%20Construction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Software%20Engineering.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Systems%20Analysis.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development/Systems%20Design.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Visual%20Basic/October%2022%20Test/TestProblem1.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Visual%20Basic/October%2022%20Test/TestProblem2.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Visual%20Basic/October%2022%20Test/TestProblem3.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Visual%20Basic/October%2022%20Test.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Computer%20architecture,%20data,%20communications%20and%20applications.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programmed%20solution%20to%20a%20problem.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Programming%20and%20Development.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Computer%20Science/Visual%20Basic.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Bin-packing%20Algorithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Bubble%20Sort.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Flow%20Charts.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Order%20of%20an%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Quick%20Sort.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms/Using%20and%20Understanding%20Algorithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs/Applying%20Prim's%20Algorithm%20to%20a%20Distance%20Matrix.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs/Floyd's%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs/Kruskal's%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs/Prim's%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs/Using%20Dijkstra's%20Algorithm%20to%20find%20the%20Shortest%20Path.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Critical%20Activities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Dummy%20Activities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Early%20and%20Late%20Event%20Times.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Gantt%20Charts.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Modelling%20a%20Project.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Resource%20Histograms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/Scheduling%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis/The%20Float%20of%20an%20Activity.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks/Graph%20Theory.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks/Modelling%20with%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks/Representing%20Graphs%20and%20Networks%20using%20Matrices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks/Special%20Types%20of%20Graph.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks/The%20Planarity%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Linear%20Programming/Graphical%20Methods.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Linear%20Programming/Linear%20Programming%20Methods.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Linear%20Programming/Locating%20the%20Optimal%20Point.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Linear%20Programming/Solutions%20with%20Integer%20Values.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Route%20Inspection/Eulerian%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Route%20Inspection/Networks%20with%20more%20than%20four%20odd%20nodes.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Route%20Inspection/Using%20the%20Route%20Inspection%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/The%20Travelling%20Salesman%20Problem/The%20Classical%20and%20Practical%20Travelling%20Salesman%20Problems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/The%20Travelling%20Salesman%20Problem/Using%20a%20Minimum%20Spanning%20Tree%20Method%20to%20find%20a%20Lower%20Bound.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/The%20Travelling%20Salesman%20Problem/Using%20a%20Minimum%20Spanning%20Tree%20Method%20to%20find%20an%20Upper%20Bound.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/The%20Travelling%20Salesman%20Problem/Using%20the%20Nearest%20Neighbour%20Algorithm%20to%20find%20an%20Upper%20Bound.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm/Formulating%20Linear%20Programming%20Problems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm/Problems%20Requiring%20Integer%20Solutions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm/The%20Big-M%20Method.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm/The%20Simplex%20Method.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm/Two-Stage%20Simplex%20Method.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Algorithms%20on%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Critical%20Path%20Analysis.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Graphs%20and%20Networks.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Linear%20Programming.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/Route%20Inspection.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/The%20Travelling%20Salesman%20problem.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201/This%20Simplex%20Algorithm.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams/Argand%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams/Loci%20in%20Argand%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams/Modulus%20and%20Argument.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams/Modulus-Argument%20in%20the%20form%20of%20complex%20numbers.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams/Regions%20in%20Argand%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers/Complex%20Conjugation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers/Imaginary%20and%20Complex%20Numbers.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers/Multiplying%20Complex%20Numbers.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers/Roots%20of%20Quadratic%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers/Solving%20Cubic%20and%20Quartic%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/Enlargements%20and%20Stretches.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/Linear%20Transformations%20in%20three%20dimensions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/Linear%20Transformations%20in%20two%20dimensions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/Reflections%20and%20Rotations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/Successive%20Transformations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations/The%20Inverse%20of%20a%20Linear%20Transformation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Determinants.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Introduction%20to%20Matrices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Inverting%20a%202x2%20Matrix.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Inverting%20a%203x3%20Matrix.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Matrix%20Multiplication.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matricies/Solving%20Systems%20of%20Equations%20using%20Matrices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Proof%20by%20Induction/Proof%20by%20Mathematical%20Induction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Proof%20by%20Induction/Proving%20Statements%20involving%20Matrices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Proof%20by%20Induction/Proving%20divisibility%20results.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials/Expressions%20relating%20to%20the%20Roots%20of%20Polynomials.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials/Linear%20Transformations%20of%20Roots.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials/Roots%20of%20a%20Cubic%20Equation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials/Roots%20of%20a%20Quadratic%20Equation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials/Roots%20of%20a%20Quartic%20Equation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Series/Sums%20of%20Natural%20Numbers.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Series/Sums%20of%20Squares%20and%20Cubes.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Calculating%20Angles%20between%20Lines%20and%20Planes.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Equation%20of%20a%20Line%20in%20Three%20Dimensions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Equation%20of%20a%20Plane%20in%20Three%20Dimensions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Finding%20Perpendiculars.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Points%20of%20Intersection.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors/Scalar%20Product.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Volumes%20of%20Revolution/Adding%20and%20Subtracting%20Volumes.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Volumes%20of%20Revolution/Modelling%20with%20Volumes%20of%20Revolution.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Volumes%20of%20Revolution/Volumes%20of%20Revolution%20around%20the%20x-axis.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Volumes%20of%20Revolution/Volumes%20of%20Revolution%20around%20the%20y-axis.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Argand%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Complex%20Numbers.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Linear%20Transformations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Matrices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Proof%20by%20Induction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Roots%20of%20Polynomials.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Series.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201/Volumes%20of%20Revolution.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Decision%201.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Further%20Maths/Further%20Pure%201.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Expanding%20Brackets.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Factorising.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Index%20Laws.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Negitive%20and%20fractional%20indices.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Rationalising%20Denominators.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions/Surds.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods/Algebraic%20Fractions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods/Dividing%20Polynomials.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods/Mathematical%20Proof.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods/Methods%20of%20proof.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods/The%20Factor%20Theorem.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles/Circles%20and%20Triangles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles/Equation%20of%20a%20Circle.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles/Intersections%20of%20Straight%20Lines%20and%20Circles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles/Midpoints%20and%20Perpendicular%20Bisectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles/Using%20Tangent%20and%20Chord%20Properties.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Differentiating%20Quadratics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Differentiating%20functions%20with%20two%20or%20more%20terms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Differentiating%20xn.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Finding%20the%20Derivative.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Gradients%20of%20Curves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Gradients,%20Tangents%20and%20Normal.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Increasing%20and%20Decreasing%20Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Modelling%20with%20Differentiation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Second%20Order%20Derivatives.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Sketching%20Gradient%20Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation/Stationary%20Points.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Inequalities%20on%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Linear%20Inequalities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Linear%20Simultaneous%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Quadratic%20Inequalities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Quadratic%20Simultaneous%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Regions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities/Simultaneous%20Equations%20on%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Exponential%20Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Exponential%20Modelling.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Laws%20of%20Logarithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Logarithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Logarithms%20and%20Non-Linear%20Data.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Solving%20Equations%20using%20Logarithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/Working%20with%20Natural%20Logarithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms/y%20=%20ex.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Cubic%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Points%20of%20Intersection.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Quartic%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Reciprocal%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Stretching%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Transforming%20Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations/Translating%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Areas%20between%20curves%20and%20lines.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Areas%20under%20Curves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Areas%20under%20the%20x-axis.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Definite%20Integrals.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Finding%20Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Indefinite%20Integrals.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration/Integrating%20xn.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/Completing%20the%20Square.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/Functions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/Modelling%20with%20Quadratics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/Quadratic%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/Solving%20Quadratic%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics/The%20Discriminant.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs/Equations%20of%20Straight%20Lines.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs/Length%20and%20Area.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs/Modelling%20with%20Straight%20Lines.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs/Parallel%20and%20Perpendicular%20Lines.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs/y=mx+c.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion/Binomial%20Estimation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion/Factorial%20Notation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion/Pascal's%20Triangle.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion/Solving%20Binomial%20Problems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion/The%20Binomial%20Expansion.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Angles%20in%20all%20four%20Quadrants.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Equations%20and%20Identities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Exact%20Values%20of%20Trigonometric%20Ratios.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Harder%20Trigonometric%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Simple%20Trigonometric%20Equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations/Trigonometric%20Identities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/Areas%20of%20Triangles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/Graphs%20of%20Sine,%20Cosine,%20and%20Tangent.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/Solving%20Triangle%20Problems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/The%20Cosine%20Rule.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/The%20Sine%20Rule.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios/Transforming%20Trigonometric%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Magnitude%20and%20Direction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Modelling%20with%20Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Position%20Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Representing%20Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Solving%20Geometric%20Problems.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors/Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Expressions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Algebraic%20Methods.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Circles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Differentiation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Equations%20and%20Inequalities.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Exponentials%20and%20Logarithms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Graphs%20and%20Transformations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Integration.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Quadratics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Straight%20Line%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/The%20Binomial%20Expansion.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Identities%20and%20equations.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Trigonometric%20Ratios.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201/Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Maths/Pure%20Maths%201.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Circuit%20Diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Conservation%20of%20Energy%20and%20Charge%20in%20Circuits.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Current%20and%20Potential%20Difference.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Determining%20the%20Resistivity%20of%20a%20Wire.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/E.M.F%20and%20Internal%20Resistance.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/I-V%20Characteristics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Power%20and%20Electrical%20Energy.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Resistance.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/Resistivity.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity/The%20Potential%20Divider.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electromagnetic%20Radiation%20and%20Quantum%20Phenomena/Energy%20Levels%20in%20Atoms.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electromagnetic%20Radiation%20and%20Quantum%20Phenomena/The%20Photoelectric%20Effect.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electromagnetic%20Radiation%20and%20Quantum%20Phenomena/Wave-Particle%20Duality.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/Brittle%20Materials.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/Density.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/Hooke's%20Law.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/Stress%20and%20Strain.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/Stress-Strain%20and%20Force-Extension%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials/The%20Young%20Modulus.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Acceleration%20due%20to%20Gravity.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Acceleration-Time%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Centre%20of%20Mass%20and%20Moments.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Conservation%20of%20Energy.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Conservation%20of%20Momentum.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Displacement-Time%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Drag,%20Lift%20and%20Terminal%20Speed.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Force,%20Momentum%20and%20Impulse.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Forces%20in%20Equilibrium.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Moments.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Newton's%20Laws%20of%20Motion.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Projectile%20Motion.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Scalars%20and%20Vectors.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Uniform%20Acceleration.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Velocity-Time%20Graphs.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics/Work%20and%20Power.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons/Annihilation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons/Antiparticles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons/Electromagnetic%20Radiation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons/Pair%20Production.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons/Photons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure/Isotopes.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure/Nucleon%20Number.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure/Proton%20Number.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure/Specific%20Charge.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure/Uses%20of%20Isotopic%20Data.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Hadrons%20and%20Leptons/Baryons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Hadrons%20and%20Leptons/Hadrons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Hadrons%20and%20Leptons/Leptons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Hadrons%20and%20Leptons/Mesons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Particle%20Interactions/Particle%20Exchange.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Particle%20Interactions/Particle%20interaction%20diagrams.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Antiquarks.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Quark%20Confinement.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Quark%20composition%20of%20Baryons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Quark%20composition%20of%20Mesons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Quarks.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Searching%20for%20particles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks/Weak%20Interaction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Stable%20and%20Unstable%20Nuclei/Forces%20in%20the%20Nucleus.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Stable%20and%20Unstable%20Nuclei/Nuclear%20Decay.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Stable%20and%20Unstable%20Nuclei/The%20Strong%20Nuclear%20Force.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Strange%20Particles%20and%20the%20Conservation%20of%20Properties/Conservation%20of%20Properties.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Strange%20Particles%20and%20the%20Conservation%20of%20Properties/Strange%20Particles.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Antiparticles%20and%20Photons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Atomic%20Structure.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Hadrons%20and%20Leptons.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Particle%20Interactions.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Quarks%20and%20Antiquarks.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Stable%20and%20Unstable%20Nuclei.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation/Strange%20Particles%20and%20the%20Conservation%20of%20Properties.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Young's%20Double%20Slit%20Experiment/Double-Slit%20Interference%20of%20Light.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Young's%20Double%20Slit%20Experiment/Evidence%20of%20the%20Wave%20Nature%20of%20Light.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Young's%20Double%20Slit%20Experiment/The%20Double%20Slit%20Formula.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Critical%20Angle%20and%20TIR.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Diffraction.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Diffraction%20Gratings.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Investigating%20Resonance.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Progressive%20Waves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Refractive%20Index.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Stationary%20Waves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Superposition%20and%20Interference.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Transverse%20and%20Longitudinal%20Waves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Two-Source%20Interference.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Wave%20Speed.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves/Young's%20Double%20Slit%20Experiment.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electricity.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Electromagnetic%20Radiation%20and%20Quantum%20Phenomena.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Materials.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Mechanics.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Particles%20and%20Radiation.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/School/Physics/Waves.html</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=maths</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=further%20maths</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=physics</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=null</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=none</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=data%20representation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=data%20transmission</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=data%20security%20and%20integrity</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=databases%20and%20distributed%20systems</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=hardware%20and%20communication</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=organisation%20and%20structure%20of%20data</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20operating%20system</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20need%20for%20different%20software</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=hash%20tables</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linked%20lists</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=queues</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=stacks</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=static%20vs%20dynamic%20data%20strcutures</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=tree%20traversal</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=boolean%20algebra%20laws</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=algorithms%20and%20programs</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=data%20structures</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=economic,%20moral,%20legal,%20ethical%20and%20cultural%20issues</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=logical%20operations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=principles%20of%20programming</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=program%20construction</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=software%20engineering</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=systems%20analysis</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=systems%20design</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=testproblem1</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=testproblem2</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=testproblem3</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=october%2022%20test</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=computer%20architecture,%20data,%20communications%20and%20applications</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=programmed%20solution%20to%20a%20problem</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=programming%20and%20development</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=visual%20basic</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=bin-packing%20algorithms</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=bubble%20sort</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=flow%20charts</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=order%20of%20an%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=quick%20sort</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20and%20understanding%20algorithms</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=applying%20prim's%20algorithm%20to%20a%20distance%20matrix</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=floyd's%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=kruskal's%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=prim's%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20dijkstra's%20algorithm%20to%20find%20the%20shortest%20path</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=critical%20activities</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=dummy%20activities</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=early%20and%20late%20event%20times</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=gantt%20charts</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=modelling%20a%20project</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=resource%20histograms</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=scheduling%20diagrams</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20float%20of%20an%20activity</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=graph%20theory</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=modelling%20with%20graphs</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=representing%20graphs%20and%20networks%20using%20matrices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=special%20types%20of%20graph</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20planarity%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=graphical%20methods</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20programming%20methods</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=locating%20the%20optimal%20point</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=solutions%20with%20integer%20values</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=eulerian%20graphs</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=networks%20with%20more%20than%20four%20odd%20nodes</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20the%20route%20inspection%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20classical%20and%20practical%20travelling%20salesman%20problems</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20a%20minimum%20spanning%20tree%20method%20to%20find%20a%20lower%20bound</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20a%20minimum%20spanning%20tree%20method%20to%20find%20an%20upper%20bound</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20the%20nearest%20neighbour%20algorithm%20to%20find%20an%20upper%20bound</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=formulating%20linear%20programming%20problems</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=problems%20requiring%20integer%20solutions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20big-m%20method</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20simplex%20method</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=two-stage%20simplex%20method</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=algorithms</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=algorithms%20on%20graphs</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=critical%20path%20analysis</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=graphs%20and%20networks</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20programming</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=route%20inspection</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20travelling%20salesman%20problem</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=this%20simplex%20algorithm</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=argand%20diagrams/argand%20diagrams</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=loci%20in%20argand%20diagrams</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=modulus%20and%20argument</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=modulus-argument%20in%20the%20form%20of%20complex%20numbers</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=regions%20in%20argand%20diagrams</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=complex%20conjugation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=imaginary%20and%20complex%20numbers</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=multiplying%20complex%20numbers</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=roots%20of%20quadratic%20equations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=solving%20cubic%20and%20quartic%20equations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=enlargements%20and%20stretches</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20transformations%20in%20three%20dimensions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20transformations%20in%20two%20dimensions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=reflections%20and%20rotations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=successive%20transformations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20inverse%20of%20a%20linear%20transformation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=determinants</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=introduction%20to%20matrices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=inverting%20a%202x2%20matrix</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=inverting%20a%203x3%20matrix</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=matrix%20multiplication</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=solving%20systems%20of%20equations%20using%20matrices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=proof%20by%20mathematical%20induction</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=proving%20statements%20involving%20matrices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=proving%20divisibility%20results</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=expressions%20relating%20to%20the%20roots%20of%20polynomials</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20transformations%20of%20roots</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=roots%20of%20a%20cubic%20equation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=roots%20of%20a%20quadratic%20equation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=roots%20of%20a%20quartic%20equation</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=sums%20of%20natural%20numbers</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=sums%20of%20squares%20and%20cubes</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=calculating%20angles%20between%20lines%20and%20planes</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=equation%20of%20a%20line%20in%20three%20dimensions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=equation%20of%20a%20plane%20in%20three%20dimensions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=finding%20perpendiculars</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=vectors/points%20of%20intersection</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=scalar%20product</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=adding%20and%20subtracting%20volumes</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=modelling%20with%20volumes%20of%20revolution</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=volumes%20of%20revolution%20around%20the%20x-axis</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=volumes%20of%20revolution%20around%20the%20y-axis</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=further%20pure%201/argand%20diagrams</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=complex%20numbers</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=linear%20transformations</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=matrices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=proof%20by%20induction</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=roots%20of%20polynomials</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=series</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=further%20pure%201/vectors</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=volumes%20of%20revolution</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=further%20decision%201</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=further%20pure%201</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=expanding%20brackets</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=factorising</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=index%20laws</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=negitive%20and%20fractional%20indices</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=rationalising%20denominators</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=surds</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=algebraic%20fractions</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=dividing%20polynomials</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=mathematical%20proof</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=methods%20of%20proof</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=the%20factor%20theorem</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=circles%20and%20triangles</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=equation%20of%20a%20circle</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=intersections%20of%20straight%20lines%20and%20circles</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=midpoints%20and%20perpendicular%20bisectors</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=using%20tangent%20and%20chord%20properties</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=differentiating%20quadratics</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=differentiating%20functions%20with%20two%20or%20more%20terms</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=differentiating%20xn</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jacobwiltshire.dev/notes/obs.html/graph/index.html?node=finding%20the%20derivative</loc>
+  <lastmod>2022-10-19T15:29:20+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
