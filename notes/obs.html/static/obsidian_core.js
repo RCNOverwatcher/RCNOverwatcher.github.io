@@ -11,7 +11,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/notes";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '297971432335633992586860985838224616710'                       // used to check whether the localStorage data is stale
+var gzip_hash = '213432110956883233282139325725179817340'                       // used to check whether the localStorage data is stale
 
 
 // Onloads
