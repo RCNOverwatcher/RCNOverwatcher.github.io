@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f00cfc-69df-494b-be95-03ff5dc229a8" name="Changes" comment="" />
+    <list default="true" id="24f00cfc-69df-494b-be95-03ff5dc229a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/giphysearcher/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/giphysearcher/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/jacob/My-Revision-Website",
+    "last_opened_file_path": "C:/Users/jacob/programming/RCNOverwatcher.github.io",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,6 +43,7 @@
       <workItem from="1666184238751" duration="644000" />
       <workItem from="1666185132040" duration="233000" />
       <workItem from="1667383165219" duration="31000" />
+      <workItem from="1669373706218" duration="59000" />
     </task>
     <servers />
   </component>
