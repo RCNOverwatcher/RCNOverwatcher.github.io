@@ -2,6 +2,7 @@ body {
 	width: 80%;
 	max-width: 1024px;
 	margin: 0 auto;
+	background-image: url("https://images.unsplash.com/photo-1536152470836-b943b246224c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60");
 }
 
 .container-padding50 {

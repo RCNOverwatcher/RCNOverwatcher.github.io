@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24f00cfc-69df-494b-be95-03ff5dc229a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/giphysearcher/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects/giphysearcher/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
       <workItem from="1667383165219" duration="31000" />
       <workItem from="1669373706218" duration="93000" />
       <workItem from="1669373936365" duration="255000" />
+      <workItem from="1669374351246" duration="208000" />
     </task>
     <servers />
   </component>
