@@ -1004,6 +1004,129 @@
 <li><a href="#big-o" class="anchor-link">Big-O</a></li>
 </ul>
 </div>
+<div class="callout callout-info active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+</div>
+<div class="callout-title-name">Big-O Fundementals <br />
+</div>
+</div>
+<div class="callout-content">
+<ul>
+<li>Big-O notation is a notation used to describe how efficient algorithms are.   </li>
+<li>Some types of Big-O include:   </li>
+<li>O(1)   </li>
+<li>O(n)   </li>
+<li>O(n<span class="arithmatex">\(^2\)</span>)   </li>
+<li>O(<span class="arithmatex">\(\log n\)</span>)   </li>
+<li>O(2<span class="arithmatex">\(^n\)</span>)   </li>
+<li>O(n!) <br />
+</li>
+</ul>
+<p>The best possible complexity to have in your algorithm is O(1) and the worst complexity is O(n!) <br />
+</p>
+</div>
+</div>
+<div class="callout callout-example active callout-folded" rasa="1">
+<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+</div>
+<div class="callout-title-name">Example of O(n) complexity <br />
+</div>
+<div class="callout-title-fold"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ChevronDown"><polyline points="6 9 12 15 18 9"></polyline>
+</div>
+</div>
+<div class="callout-content">
+<p><code>python   
+for i in range(1, n):   
+sum++</code>
+ <br />
+The bigger the number you put in as n, the longer time the algorithm will take, however this increase is linear and only increases at the same rate as the rate of the increase of n. <br />
+</p>
+</div>
+</div>
+<div class="callout callout-example active callout-folded" rasa="1">
+<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+</div>
+<div class="callout-title-name">Example of O<span class="arithmatex">\((n^2)\)</span> complexity <br />
+</div>
+<div class="callout-title-fold"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ChevronDown"><polyline points="6 9 12 15 18 9"></polyline>
+</div>
+</div>
+<div class="callout-content">
+<p><code>python   
+for i in range(1, n):   
+for j in range (1, n):   
+sum++</code>
+ <br />
+When you increase n, you increase the time complexity of the algorithm to the power of 2. This is because when you increase n by 1, you are looping over the entire of the second section of code another time which makes the algorithm much slower. <br />
+This type of complexity occurs most frequency when you put a loop inside another loop. <br />
+</p>
+</div>
+</div>
+<div class="callout callout-example active callout-folded" rasa="1">
+<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+</div>
+<div class="callout-title-name">Example of exponential complexity (aka: O<span class="arithmatex">\((2^n)\)</span>) <br />
+</div>
+<div class="callout-title-fold"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ChevronDown"><polyline points="6 9 12 15 18 9"></polyline>
+</div>
+</div>
+<div class="callout-content">
+<p><em>Example written in Rust</em> <br />
+<code>rust   
+fn fibonacci(n:i64) -&gt; i64 {   
+if n &lt; 2 {   
+return n;   
+}   
+return fibonacci(n-1)+fibonacci(n-2)   
+}</code>
+ <br />
+This algorithm calculates the fibonacci number at a certain index. <br />
+The function is recursive, and has a complexity of O(<span class="arithmatex">\(2^n\)</span>) <br />
+</p>
+</div>
+</div>
+<div class="callout callout-example active callout-folded" rasa="1">
+<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+</div>
+<div class="callout-title-name">Example of logarithmic complexity (aka: O<span class="arithmatex">\((\log n)\)</span>) <br />
+</div>
+<div class="callout-title-fold"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ChevronDown"><polyline points="6 9 12 15 18 9"></polyline>
+</div>
+</div>
+<div class="callout-content">
+<p>A binary search is an algorithm with a complexity of log(n). <br />
+</p>
+</div>
+</div>
+<div class="callout callout-tip active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M8.5 14.5A2.5 2.5 0 0011 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 11-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 002.5 2.5z"></path></svg>
+</div>
+<div class="callout-title-name">All complexities <br />
+</div>
+</div>
+<div class="callout-content">
+<p><img src="../../../../assets/Computer%20Science/Pasted%20image%2020221206150559.png"  width="800"> <br />
+</p>
+</div>
+</div>
+<div class="callout callout-tip active" rasa="1">
+<div class="callout-title">
+<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M8.5 14.5A2.5 2.5 0 0011 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 11-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 002.5 2.5z"></path></svg>
+</div>
+<div class="callout-title-name">Cheat Sheet <br />
+</div>
+</div>
+<div class="callout-content">
+<p><img src="../../../../assets/Computer%20Science/big-o-cheat-sheet-poster.png"  width="1150">
+</p>
+</div>
+</div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -1018,13 +1141,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A59679103027104157590662596467369362958{level}" class="graph_div"></div>
+    <div id="A33048230436953193547361231361505136439{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B59679103027104157590662596467369362958{level}" level="{level}" note_temp_id="59679103027104157590662596467369362958" onclick="window.ObsHtmlGraph.run(this, '59679103027104157590662596467369362958', 'big-o');">
+        <button class="graph_button graph_show_button" id="B33048230436953193547361231361505136439{level}" level="{level}" note_temp_id="33048230436953193547361231361505136439" onclick="window.ObsHtmlGraph.run(this, '33048230436953193547361231361505136439', 'big-o');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C59679103027104157590662596467369362958{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C33048230436953193547361231361505136439{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
