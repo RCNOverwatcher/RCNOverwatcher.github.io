@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-image: url("https://source.unsplash.com/random/1600x900");
+      background-size: cover;
+    }
+    h1 {
+      text-align: center;
+      color: white;
+    }
+    form {
+      max-width: 500px;
+      margin: 20px auto;
+      text-align: center;
+    }
+    input[type="text"] {
+      width: 80%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      background-color: rgba(255, 255, 255, 0.8);
+    }
+    button[type="submit"] {
+      width: 20%;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button[type="submit"]:hover {
+      background-color: #45a049;
+    }
+    #results {
+      max-width: 500px;
+      margin: 20px auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color: rgba(255, 255, 255, 0.8);
+    }
+  </style>
+</head>
+<body>
+<h1>Search</h1>
+<input type="text" id="search-input" placeholder="Enter search query..." />
+<div>&nbsp;</div>
+<button id="search-button">Search</button>
+<div id="results"></div>
+<script>
+  const api1 = "https://pointercrate.com/api/v2/demons/listed/?limit=50&after=100";
+  const api2 = "https://pointercrate.com/api/v2/demons/listed/?limit=100";
+
+  async function searchData() {
+    // Get the search input and search button elements
+    const searchInput = document.getElementById("search-input");
+    const searchButton = document.getElementById("search-button");
+
+    // Get the search query from the search input
+    const query = searchInput.value;
+
+    // Make a request to the first API
+    const response1 = await fetch(api1);
+    const data1 = await response1.json();
+
+    // Make a request to the second API
+    const response2 = await fetch(api2);
+    const data2 = await response2.json();
+
+    // Combine the data from the two APIs
+    const combinedData = [...data1, ...data2];
+
+    // Search the combined data using the query
+    const searchResults = combinedData.filter(item =>
+            item.name.toLowerCase().includes(query.toLowerCase())
+    );
+
+    // Order the search results by position
+    const orderedResults = searchResults.sort((a, b) => a.position - b.position);
+
+    // Display the search results on the page
+    const resultsElement = document.getElementById("results");
+    resultsElement.innerHTML = orderedResults
+            .map(
+                    result =>
+                            `<div>
+          <img src="${result.thumbnail}" alt="${result.name}" />
+          <p>
+            <a href="https://pointercrate.com/demonlist/${result.position}" target="_blank">
+              ${result.name} <em>(${result.position})</em>
+            </a>
+          </p>
+        </div>`
+            )
+            .join("");
+  }
+
+  // Add an event listener to the search button to execute the search when clicked
+  const searchButton = document.getElementById("search-button");
+  searchButton.addEventListener("click", searchData);
+</script>
+</body>
+</html>

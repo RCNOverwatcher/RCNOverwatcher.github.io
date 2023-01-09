@@ -2,65 +2,13 @@
 <html>
 <head>
   <title>API Data Search</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    h1 {
-      text-align: center;
-      margin: 20px 0;
-    }
-    input[type="text"] {
-      padding: 8px;
-      font-size: 16px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      width: 30%;
-      margin-right: 20px;
-      text-align: center;
-      position: relative;
-      display: block;
-      margin: 0 auto;
-    }
-    button {
-      padding: 8px;
-      font-size: 16px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      background-color: #eee;
-      cursor: pointer;
-      position: relative;
-      display: block;
-      margin: 0 auto;
-    }
-    #results {
-      margin: 20px 0;
-      text-align: center;
-    }
-    #results div {
-      display: flex;
-      align-items: center;
-      margin: 0 0 8px 0;
-    }
-    #results img {
-      width: 128px;
-      height: 72px;
-      object-fit: cover;
-      margin-right: 8px;
-    }
-    #results p {
-      font-size: 24px;
-      margin: 0;
-      padding: 8px;
-      border-bottom: 1px solid #ccc;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1>API Data Search</h1>
-
+<video autoplay muted loop id="myVideo">
+  <source src="background.webm" type="video/webm">
+</video>
 <input type="text" id="search-input" placeholder="Enter search query..." />
 <div>&nbsp;</div>
 <button id="search-button">Search</button>
